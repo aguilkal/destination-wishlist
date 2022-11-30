@@ -18,14 +18,18 @@
   }
   #blue{
     border-color: blue;
+    position: relative;
   }
   #purple{
     border-color: #c83697;
+    width: 95%;
+    margin: 10px 10px 0 10px;
   }
   #yellow{
     border-color: yellow;
     height: 40vh;
-
+    width: 95%;
+    margin: 10px;
   }
   #space-box{
     justify-content: space-evenly;
